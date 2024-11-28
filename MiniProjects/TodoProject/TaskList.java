@@ -21,7 +21,7 @@ public class TaskList {
             }else if (choice.equalsIgnoreCase("C")) {
                 UpdateTask.main();
             }else if (choice.equalsIgnoreCase("D")) {
-                ViewTask.main();
+                ViewTask.main(String[]);
             }else if (choice.equalsIgnoreCase("End")) {
                 choice = "End";
             }else {
