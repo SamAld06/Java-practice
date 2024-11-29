@@ -42,6 +42,8 @@ Goals:
   - `Understand how to write unit tests for Java`
   - `Completed all HackerRank tasks relating to this weeks content (near half of all intermediate)`
   - `Have a basic understanding of Groovy`
+  - `Have a basic understanding of typescript`
+  - `Ensure project is ready to start`
 
 Day 1: Understand how to write unit tests for Java
   - `Understand how to use JUnit`
@@ -57,17 +59,17 @@ Day 3: Understand what Springboot is and how to use it
   - `Reasearch Springboot and watch some tutorials`
   - `Code some basic Springboot`
   - `Code some Springboot relating to the rock, paper, scissors programme`
-  - `Decide what the learning plan project will be`
+  - `Decide what the learning plan project will be and write the first draft of the project plan`
 
-Day 4: 
-  - ``
-  - ``
-  - ``
+Day 4: Understand what Typescript is and how to use it
+  - `Understand basic syntax`
+  - `Code a basic rock, paper, scissors in Typescript`
+  - `Go back over Springboot`
 
-Day 5: 
-  - ``
-  - ``
-  - ``
+Day 5: Recap the week and go over anything unsure about
+  - `Recap any grey areas`
+  - `Complete intermediate section of HackerRank Java course`
+  - `Ensure project is ready to begin on Week 3 day 1`
 
 ## Week 3
 
