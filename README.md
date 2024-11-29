@@ -36,3 +36,34 @@ Day 5: Learning how to structure in different files, complete rock, paper, sciss
     - `Add code to declare winner after all rounds played`
 
 ## Week 2
+
+Goals:
+  - ``
+  - ``
+  - ``
+
+Day 1: 
+  - ``
+  - ``
+  - ``
+
+Day 2: 
+  - ``
+  - ``
+  - ``
+
+Day 3: Control structures
+  - ``
+  - ``
+  - ``
+
+Day 4: Accepting user inputs
+  - ``
+  - ``
+  - ``
+
+Day 5: Learning how to structure in different files, complete rock, paper, scissors
+  - ``
+  - ``
+  - ``
+
