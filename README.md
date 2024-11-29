@@ -7,9 +7,9 @@ Week 1:
     - Completed all HackerRank tasks relating to this weeks content (majority of beginner)
   
   Day 1: Intro and Setup
-    - Download java and set up VSC to run java
-    - Download Maven
-    - Understand how to write basic syntax such as printing to console and assigning variables
+  		- Download java and set up VSC to run java
+    	- Download Maven
+    	- Understand how to write basic syntax such as printing to console and assigning variables
   Day 2: More basic Syntax
     - Understand how to print variables
     - Understand how to structure java code
