@@ -34,4 +34,5 @@ Day 5: Learning how to structure in different files, complete rock, paper, sciss
     - `Add multiple rounds feature`
     - `Add option to end game before start of any round`
     - `Add code to declare winner after all rounds played`
-  
+
+## Week 2
