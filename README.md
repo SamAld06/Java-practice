@@ -48,15 +48,16 @@ Day 1: Understand how to write unit tests for Java
   - `Write some basic tests for the rock, paper, scissors programme`
   - `Complete the rest of the beginner HackerRank section`
 
-Day 2: Understand what advanced java is and its concepts
+Day 2: Understand what advanced java is and its concepts & brainstorm project ideas
   - `Write some notes and watch some videos`
-  - `Code some advanced Java`
+  - `Note down and concept some project ideas`
   - `Start the intermediate HackerRank section`
 
 Day 3: Understand what Springboot is and how to use it
   - `Reasearch Springboot and watch some tutorials`
   - `Code some basic Springboot`
   - `Code some Springboot relating to the rock, paper, scissors programme`
+  - `Decide what the learning plan project will be`
 
 Day 4: 
   - ``
@@ -68,3 +69,68 @@ Day 5:
   - ``
   - ``
 
+## Week 3
+
+Goals:
+  - ``
+  - ``
+  - ``
+  - ``
+
+Day 1:
+  - ``
+  - ``
+  - ``
+
+Day 2:
+  - ``
+  - `
+  - ``
+
+Day 3:
+  - ``
+  - ``
+  - ``
+
+Day 4: 
+  - ``
+  - ``
+  - ``
+
+Day 5: 
+  - ``
+  - ``
+  - ``
+
+## Week 4
+
+Goals:
+  - ``
+  - ``
+  - ``
+  - ``
+
+Day 1:
+  - ``
+  - ``
+  - ``
+
+Day 2:
+  - ``
+  - `
+  - ``
+
+Day 3:
+  - ``
+  - ``
+  - ``
+
+Day 4: 
+  - ``
+  - ``
+  - ``
+
+Day 5: 
+  - ``
+  - ``
+  - ``
