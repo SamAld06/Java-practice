@@ -1,5 +1,5 @@
 # Java learning plan
-
+This is the learning plan that i will use for learning Java as part of my Software Engineer apprenticeship during the Multiverse Bootcamp.
 ## Week 1
 Goals:
   - `Understand Java basics`
