@@ -41,21 +41,22 @@ Goals:
   - `Understand advanced Java and have a basic understanding of Springboot`
   - `Understand how to write unit tests for Java`
   - `Completed all HackerRank tasks relating to this weeks content (near half of all intermediate)`
+  - `Have a basic understanding of Groovy`
 
-Day 1: 
-  - ``
-  - ``
-  - ``
+Day 1: Understand how to write unit tests for Java
+  - `Understand how to use JUnit`
+  - `Write some basic tests for the rock, paper, scissors programme`
+  - `Complete the rest of the beginner HackerRank section`
 
-Day 2: 
-  - ``
-  - ``
-  - ``
+Day 2: Understand what advanced java is and its concepts
+  - `Write some notes and watch some videos`
+  - `Code some advanced Java`
+  - `Start the intermediate HackerRank section`
 
-Day 3:
-  - ``
-  - ``
-  - ``
+Day 3: Understand what Springboot is and how to use it
+  - `Reasearch Springboot and watch some tutorials`
+  - `Code some basic Springboot`
+  - `Code some Springboot relating to the rock, paper, scissors programme`
 
 Day 4: 
   - ``
