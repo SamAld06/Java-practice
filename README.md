@@ -38,9 +38,9 @@ Day 5: Learning how to structure in different files, complete rock, paper, sciss
 ## Week 2
 
 Goals:
-  - ``
-  - ``
-  - ``
+  - `Understand advanced Java and have a basic understanding of Springboot`
+  - `Understand how to write unit tests for Java`
+  - `Completed all HackerRank tasks relating to this weeks content (near half of all intermediate)`
 
 Day 1: 
   - ``
@@ -52,17 +52,17 @@ Day 2:
   - ``
   - ``
 
-Day 3: Control structures
+Day 3:
   - ``
   - ``
   - ``
 
-Day 4: Accepting user inputs
+Day 4: 
   - ``
   - ``
   - ``
 
-Day 5: Learning how to structure in different files, complete rock, paper, scissors
+Day 5: 
   - ``
   - ``
   - ``
