@@ -74,10 +74,9 @@ Day 5: Recap the week and go over anything unsure about
 ## Week 3
 
 Goals:
-  - ``
-  - ``
-  - ``
-  - ``
+  - `Finish version 1 of the project`
+  - `Start version 2 of the project`
+  - `Draft the MVP`
 
 Day 1:
   - ``
