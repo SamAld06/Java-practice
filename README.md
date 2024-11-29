@@ -1,6 +1,6 @@
 # Java learning plan
 
-##Week 1
+## Week 1
 Goals:
 - `Understand Java basics`
 - `Have a completed rock, paper, scissors project with multiple rounds and stats`
