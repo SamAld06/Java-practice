@@ -84,18 +84,21 @@ Day 1:
   - `Add some of the logic for the match cards`
 
 Day 2:
-  - ``
-  - ``
-  - ``
+  - `Create some temporary data for the cards`
+  - `Add the option to filter matches by teams for respective competitions and the home page`
+  - `Add other filter options such as:`
+      - `Home or away only`
+      - `Competition type`
+      - `Time period (months)`
 
 Day 3:
-  - ``
-  - ``
-  - ``
+  - `Add more styling such as icons for the teams`
+  - `Add options for different competitions to the home page`
+  - `Finish the home page`
 
 Day 4: 
-  - ``
-  - ``
+  - `Add the player databank`
+  - `Allow the user to search for their player using a search bar and filter`
   - ``
 
 Day 5: 
