@@ -74,18 +74,18 @@ Day 5: Recap the week and go over anything unsure about
 ## Week 3
 
 Goals:
-  - `Finish version 1 of the project`
-  - `Start version 2 of the project`
+  - `Finish version 1 of the football web app`
+  - `Start version 2 of the football web app`
   - `Draft the MVP`
 
 Day 1:
-  - ``
-  - ``
-  - ``
+  - `Create a basic home page for the web app`
+  - `Add some basic styling`
+  - `Add some of the logic for the match cards`
 
 Day 2:
   - ``
-  - `
+  - ``
   - ``
 
 Day 3:
