@@ -84,7 +84,7 @@ Day 1:
   - `Add some of the logic for the match cards`
 
 Day 2:
-  - `Create some temporary data for the cards`
+  - `Create some temporary data for the upcoming matches`
   - `Add the option to filter matches by teams for respective competitions and the home page`
   - `Add other filter options such as:`
       - `Home or away only`
@@ -97,44 +97,35 @@ Day 3:
   - `Finish the home page`
 
 Day 4: 
-  - `Add the player databank`
-  - `Allow the user to search for their player using a search bar and filter`
-  - ``
+  - `Add the player temporary data`
+  - `Allow the user to search for their player or team using a search bar and filter`
+  - `Finish up on any uncomplete parts`
 
 Day 5: 
-  - ``
-  - ``
-  - ``
+  - `Find a api to automate matches and players`
+  - `Find a way to update live scores for currently playing matches`
+  - `Draft version of MVP`
 
 ## Week 4
 
 Goals:
-  - ``
-  - ``
-  - ``
-  - ``
+  - `Complete project`
+  - `Attempt to add more features`
+  - `Make a presentation`
+  - `Deploy app`
 
 Day 1:
-  - ``
-  - ``
-  - ``
+  - `Add score predictor`
+  - `Update matches page to have stats about players and previous matches`
 
 Day 2:
-  - ``
-  - `
-  - ``
+  - `Continue to finish predictors and stats`
 
 Day 3:
-  - ``
-  - ``
-  - ``
+  - `Finalise styling`
+  - `Finalise project`
+  - `Deploy app`
 
 Day 4: 
-  - ``
-  - ``
-  - ``
-
-Day 5: 
-  - ``
-  - ``
-  - ``
+  - `Work on and complete presentation`
+  - `Record presentation`
